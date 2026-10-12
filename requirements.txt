@@ -1,0 +1,9 @@
+pillow
+numpy
+opencv-python-headless
+pytesseract
+rapidocr-onnxruntime
+pydantic
+anthropic
+google-cloud-vision
+google-cloud-documentai

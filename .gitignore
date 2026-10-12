@@ -1,0 +1,16 @@
+# 비밀 값
+.env
+*.env
+!.env.example
+*credentials*.json
+service-account*.json
+
+# 원본 영수증 (개인정보)
+samples/private/
+
+# 생성물
+prep/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
