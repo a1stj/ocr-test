@@ -1,0 +1,41 @@
+{
+  "type": "card_statement",
+  "transactions": [
+    {
+      "date": "2026-10-06",
+      "merchant": "TAXI NANIWA OSAKA JP",
+      "local_currency": "JPY",
+      "local_amount": 4000,
+      "krw": 36840
+    },
+    {
+      "date": "2026-10-04",
+      "merchant": "USJ LLC OSAKA JP",
+      "local_currency": "JPY",
+      "local_amount": 36000,
+      "krw": 331200
+    },
+    {
+      "date": "2026-10-03",
+      "merchant": "NANIWAYA DOTONBORI JP",
+      "local_currency": "JPY",
+      "local_amount": 24000,
+      "krw": 220560
+    },
+    {
+      "date": "2026-10-03",
+      "merchant": "HAPPY MART NAMBA JP",
+      "local_currency": "JPY",
+      "local_amount": 1538,
+      "krw": 14166
+    },
+    {
+      "date": "2026-10-02",
+      "merchant": "KANSAI AIRPORT EXP JP",
+      "local_currency": "JPY",
+      "local_amount": 3640,
+      "krw": 33520
+    }
+  ],
+  "full_text": "이용내역\n해외 이용 · 2026년 10월\nTAXI NANIWA OSAKA JP 36,840원\n2026.10.06 해외승인 · 일시불\nJPY 4,000\nUSJ LLC OSAKA JP 331,200원\n2026.10.04 해외승인 · 일시불\nJPY 36,000\nNANIWAYA DOTONBORI JP 220,560원\n2026.10.03 해외승인 · 일시불\nJPY 24,000\nHAPPY MART NAMBA JP 14,166원\n2026.10.03 해외승인 · 일시불\nJPY 1,538\nKANSAI AIRPORT EXP JP 33,520원\n2026.10.02 해외승인 · 일시불\nJPY 3,640"
+}

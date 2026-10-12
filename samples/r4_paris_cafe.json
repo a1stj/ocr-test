@@ -1,0 +1,26 @@
+{
+  "type": "receipt",
+  "merchant": "CAFE DU MARCHE",
+  "date": "2026-10-05",
+  "currency": "EUR",
+  "total": 19.3,
+  "items": [
+    {
+      "name": "2 x Cafe creme",
+      "amount": 9.0
+    },
+    {
+      "name": "Croissant",
+      "amount": 2.2
+    },
+    {
+      "name": "Pain au chocolat",
+      "amount": 2.6
+    },
+    {
+      "name": "Jus d'orange",
+      "amount": 5.5
+    }
+  ],
+  "full_text": "CAFE DU MARCHE\n12 Rue Cler, 75007 Paris\n05/10/2026 08:41\n2 x Cafe creme 9.00 EUR\nCroissant 2.20 EUR\nPain au chocolat 2.60 EUR\nJus d'orange 5.50 EUR\nTOTAL TTC 19.30 EUR\ndont TVA 10% 1.75 EUR\nCB VISA 19.30 EUR\nMerci de votre visite"
+}
